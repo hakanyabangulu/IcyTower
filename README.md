@@ -71,6 +71,8 @@ Assets
     gameover.png: Game over screen image
     DejaVuSans.ttf: Font file for text rendering
 
+![Ekran görüntüsü 2025-06-05 160853](https://github.com/user-attachments/assets/88ccd646-afec-4d7d-8176-c9e5f4f3be5e)
+
 ![Ekran görüntüsü 2025-06-05 162239](https://github.com/user-attachments/assets/6ef1c8ab-2b4d-47d1-ace5-7250c8530e87)
 
 
