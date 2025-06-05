@@ -1,8 +1,8 @@
 # IcyTower
 
-Icy Tower Game
+Icy Tower Clone Game
 
-    Welcome to Icy Tower, a fun and challenging platformer game built using SFML (Simple and Fast Multimedia Library) in C++. Jump, double jump, and wall jump your way to the top while collecting power-ups and avoiding falling off the screen!
+    Welcome to Icy Tower Clone, a fun and challenging platformer game built using SFML (Simple and Fast Multimedia Library) in C++. Jump, double jump, and wall jump your way to the top while collecting power-ups and avoiding falling off the screen!
     Description
     "Icy Tower" is a vertical platformer where you control a character that must climb as high as possible by jumping between platforms. The game features moving platforms, power-ups (Speed Boost and Extra Jump), and a scoring system. Avoid falling to the bottom to keep your high score!
     
